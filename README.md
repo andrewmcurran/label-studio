@@ -209,7 +209,7 @@ Want to use **The Coolest Feature X** but Label Studio doesn't support it? Check
   year={2020-2021},
 }
 ```
-
+thanks!
 ## License
 
 This software is licensed under the [Apache 2.0 LICENSE](/LICENSE) © [Heartex](https://www.heartex.ai/). 2020-2021
